@@ -6,6 +6,7 @@ namespace frst
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Title = "Rogozin Danila IU5-31";
             double A, B, C;
