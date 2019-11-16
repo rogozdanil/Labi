@@ -8,3 +8,8 @@
 /Users/danilka/Projects/Labi/Labaa1/obj/Debug/Labaa1.csprojAssemblyReference.cache
 /Users/danilka/Projects/Labi/Labaa1/obj/Debug/Labaa1.exe
 /Users/danilka/Projects/Labi/Labaa1/obj/Debug/Labaa1.pdb
+/Users/danilka/Documents/Labi/Labaa1/bin/Debug/Labaa1.exe
+/Users/danilka/Documents/Labi/Labaa1/bin/Debug/Labaa1.pdb
+/Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.csprojAssemblyReference.cache
+/Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.exe
+/Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.pdb
