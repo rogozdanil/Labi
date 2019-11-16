@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa1", "Labaa1\Labaa1.csproj", "{DDF214D2-F7C8-484F-8D7D-DF5B0D16FB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa2", "Labaa2\Labaa2.csproj", "{47BB5B6B-8E9B-40ED-A018-8B5098E5ACED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa3", "Labaa3\Labaa3.csproj", "{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF214D2-F7C8-484F-8D7D-DF5B0D16FB85}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DDF214D2-F7C8-484F-8D7D-DF5B0D16FB85}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DDF214D2-F7C8-484F-8D7D-DF5B0D16FB85}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DDF214D2-F7C8-484F-8D7D-DF5B0D16FB85}.Release|anycpu.Build.0 = Release|anycpu
+		{47BB5B6B-8E9B-40ED-A018-8B5098E5ACED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{47BB5B6B-8E9B-40ED-A018-8B5098E5ACED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{47BB5B6B-8E9B-40ED-A018-8B5098E5ACED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{47BB5B6B-8E9B-40ED-A018-8B5098E5ACED}.Release|anycpu.Build.0 = Release|anycpu
+		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
