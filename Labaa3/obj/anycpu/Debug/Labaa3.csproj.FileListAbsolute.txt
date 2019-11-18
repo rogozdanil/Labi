@@ -1,0 +1,8 @@
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\bin\Debug\Labaa3.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\bin\Debug\Labaa3.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\bin\Debug\Labaa2.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\bin\Debug\Labaa2.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\obj\anycpu\Debug\Labaa3.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\obj\anycpu\Debug\Labaa3.csproj.CopyComplete
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\obj\anycpu\Debug\Labaa3.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa3\obj\anycpu\Debug\Labaa3.pdb

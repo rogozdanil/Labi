@@ -13,3 +13,8 @@
 /Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.csprojAssemblyReference.cache
 /Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.exe
 /Users/danilka/Documents/Labi/Labaa1/obj/Debug/Labaa1.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa1\bin\Debug\Labaa1.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa1\bin\Debug\Labaa1.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa1\obj\Debug\Labaa1.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa1\obj\Debug\Labaa1.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa1\obj\Debug\Labaa1.pdb

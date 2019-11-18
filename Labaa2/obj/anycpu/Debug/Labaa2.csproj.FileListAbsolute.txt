@@ -1,0 +1,5 @@
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa2\bin\Debug\Labaa2.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa2\bin\Debug\Labaa2.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa2\obj\anycpu\Debug\Labaa2.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa2\obj\anycpu\Debug\Labaa2.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa2\obj\anycpu\Debug\Labaa2.pdb
