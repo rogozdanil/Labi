@@ -14,7 +14,8 @@ namespace Laba3
             Circle circle = new Circle(10);
             Rectangle rectangle = new Rectangle(10, 2);
             Square square = new Square(4);
-
+            Console.WriteLine("\nTest");
+            Console.WriteLine("\nНеобобщенный список");
             ArrayList figuresArrayList = new ArrayList
             {
                 circle,
@@ -28,6 +29,7 @@ namespace Laba3
             }
             Console.WriteLine();
 
+            Console.WriteLine("\nОбобщенный список");
             var figuresList = new List<Figure>
             {
                 circle,
@@ -41,6 +43,8 @@ namespace Laba3
             }
             Console.WriteLine();
 
+
+            Console.WriteLine("\nМатрица");
             SparseMatrix<Figure> cube = new SparseMatrix<Figure>(3, 3, 3, null);
             cube[0, 0, 0] = rectangle;
             cube[1, 1, 1] = square;
@@ -48,6 +52,7 @@ namespace Laba3
             Console.WriteLine(cube.ToString());
             Console.WriteLine();
 
+            Console.WriteLine("\nСамодельный обощенный список");
             SimpleList<Figure> list = new SimpleList<Figure>
             {
                 circle
@@ -55,7 +60,6 @@ namespace Laba3
             list.Add(square);
             list.Add(rectangle);
             foreach (var x in list) Console.WriteLine(x.ToString());
-
 
             Console.WriteLine("\nСтек");
             SimpleStack<Figure> stack = new SimpleStack<Figure>();
