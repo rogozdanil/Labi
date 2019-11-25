@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa2", "Labaa2\Labaa2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa3", "Labaa3\Labaa3.csproj", "{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa4", "\\Mac\Home\Desktop\Labaa4\Lab4\Labaa4.csproj", "{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -26,6 +28,10 @@ Global
 		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}.Release|anycpu.Build.0 = Release|Any CPU
+		{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
