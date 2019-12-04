@@ -8,13 +8,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa2", "Labaa2\Labaa2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa3", "Labaa3\Labaa3.csproj", "{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa4", "Labaa4\Labaa4\Labaa4.csproj", "{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa4", "Labaa4\Labaa4.csproj", "{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5", "Labaa5\Labaa5\Labaa5.csproj", "{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5", "Labaa5\Labaa5.csproj", "{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "Labaa6\Labaa6\Labaa6.csproj", "{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "Labaa6\Labaa6.csproj", "{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "Labaa6_v2\Labaa6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "Labaa6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
