@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5", "\\Mac\Home\Downlo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "\\Mac\Home\Downloads\ÄÇ\Lab4\DZ.csproj", "{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "\\Mac\Home\Downloads\Lab6\Lab6\Labaa6.csproj", "{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "\\Mac\Home\Downloads\Lab6_v2\Lab6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -44,6 +48,14 @@ Global
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.Build.0 = Release|Any CPU
+		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Release|anycpu.Build.0 = Release|Any CPU
+		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
