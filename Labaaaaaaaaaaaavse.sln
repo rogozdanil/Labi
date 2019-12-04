@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "Labaa6\Labaa6.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "Labaa6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ\DZ.csproj", "{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -50,6 +52,10 @@ Global
 		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{A29807FC-9B76-42A0-A0D4-7009176FCF06}.Release|anycpu.Build.0 = Release|Any CPU
+		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
