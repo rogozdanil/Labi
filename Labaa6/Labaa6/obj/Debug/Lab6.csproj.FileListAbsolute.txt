@@ -1,0 +1,7 @@
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\bin\Debug\Lab6.exe.config
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\bin\Debug\Lab6.exe
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\bin\Debug\Lab6.pdb
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\obj\Debug\Lab6.exe
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab6\Lab6\obj\Debug\Lab6.pdb

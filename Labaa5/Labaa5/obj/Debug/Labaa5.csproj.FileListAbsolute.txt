@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\Labaa5\Labaa5\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\Labaa5\Labaa5\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\Labaa5\Labaa5\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Labaa5.Form1.resources
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Lab4.Properties.Resources.resources
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Labaa5.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Labaa5\Labaa5\obj\Debug\Labaa5.csprojAssemblyReference.cache

@@ -1,0 +1,38 @@
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\1_Универ\БКИТ\Лабы БКИТ\Lab4\Lab4\obj\Debug\Lab4.pdb
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\bin\Debug\Lab4.exe.config
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\bin\Debug\Lab4.exe
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\bin\Debug\Lab4.pdb
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.exe
+I:\БКИТ\Лабы и отчеты\Lab4\Lab4\obj\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Lab4\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\Lab4\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4\Lab4\obj\Debug\Lab4.pdb

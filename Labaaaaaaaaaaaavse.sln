@@ -8,15 +8,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa2", "Labaa2\Labaa2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa3", "Labaa3\Labaa3.csproj", "{A2F379A3-4B47-4E81-8AEF-68471E27AA7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa4", "\\Mac\Home\Desktop\Labaa4\Lab4\Labaa4.csproj", "{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa4", "Labaa4\Labaa4\Labaa4.csproj", "{097AAFE2-28A6-45B4-BED5-78D86C0F8B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5", "\\Mac\Home\Downloads\Labaa5\Labaa5\Labaa5.csproj", "{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5", "Labaa5\Labaa5\Labaa5.csproj", "{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "\\Mac\Home\Downloads\ÄÇ\Lab4\DZ.csproj", "{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "Labaa6\Labaa6\Labaa6.csproj", "{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6", "\\Mac\Home\Downloads\Lab6\Lab6\Labaa6.csproj", "{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "\\Mac\Home\Downloads\Lab6_v2\Lab6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "Labaa6_v2\Labaa6_v2\Labaa6_v2.csproj", "{A29807FC-9B76-42A0-A0D4-7009176FCF06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,10 +42,6 @@ Global
 		{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{9002C55E-3668-43B2-AC0B-8AD02D47D2AD}.Release|anycpu.Build.0 = Release|Any CPU
-		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.ActiveCfg = Debug|Any CPU
-		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.Build.0 = Debug|Any CPU
-		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.ActiveCfg = Release|Any CPU
-		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.Build.0 = Release|Any CPU
 		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
 		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{1E0FC7D8-4EEE-433E-B03E-A816D39C7DB9}.Release|anycpu.ActiveCfg = Release|Any CPU
