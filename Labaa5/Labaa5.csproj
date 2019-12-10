@@ -107,5 +107,11 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Labaa5_library\Labaa5_library.csproj">
+      <Project>{86bcf34b-1499-4fc2-b896-3719bec4c646}</Project>
+      <Name>Labaa5_library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

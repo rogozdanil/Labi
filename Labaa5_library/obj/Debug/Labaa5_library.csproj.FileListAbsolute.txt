@@ -1,0 +1,5 @@
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa5_library\bin\Debug\Labaa5_library.dll
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa5_library\bin\Debug\Labaa5_library.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa5_library\obj\Debug\Labaa5_library.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa5_library\obj\Debug\Labaa5_library.dll
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa5_library\obj\Debug\Labaa5_library.pdb

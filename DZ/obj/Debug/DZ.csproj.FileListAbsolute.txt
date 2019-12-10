@@ -7,3 +7,12 @@
 \\Mac\Home\Downloads\ДЗ\Lab4\obj\Debug\DZ.csproj.GenerateResource.cache
 \\Mac\Home\Downloads\ДЗ\Lab4\obj\Debug\Lab4.exe
 \\Mac\Home\Downloads\ДЗ\Lab4\obj\Debug\Lab4.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\bin\Debug\Lab4.exe.config
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\bin\Debug\Lab4.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\bin\Debug\Lab4.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\DZ.Form1.resources
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\Lab4.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\DZ\obj\Debug\Lab4.pdb

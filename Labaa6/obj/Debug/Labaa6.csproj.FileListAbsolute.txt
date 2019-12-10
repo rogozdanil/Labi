@@ -1,0 +1,6 @@
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\bin\Debug\Lab6.exe.config
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\bin\Debug\Lab6.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\bin\Debug\Lab6.pdb
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\obj\Debug\Labaa6.csprojAssemblyReference.cache
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\obj\Debug\Lab6.exe
+C:\Users\danilka\source\repos\rogozdanil\Labi\Labaa6\obj\Debug\Lab6.pdb

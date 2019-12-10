@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa6_v2", "Labaa6_v2\Laba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ\DZ.csproj", "{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaa5_library", "Labaa5_library\Labaa5_library.csproj", "{86BCF34B-1499-4FC2-B896-3719BEC4C646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -56,6 +58,10 @@ Global
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{D3E83380-11D5-4F78-B08D-B0A5DC47ECEF}.Release|anycpu.Build.0 = Release|Any CPU
+		{86BCF34B-1499-4FC2-B896-3719BEC4C646}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{86BCF34B-1499-4FC2-B896-3719BEC4C646}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{86BCF34B-1499-4FC2-B896-3719BEC4C646}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{86BCF34B-1499-4FC2-B896-3719BEC4C646}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
